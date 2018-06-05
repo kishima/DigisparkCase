@@ -1,5 +1,5 @@
 # DigisparkCase
-SLT files of Digispark case
+STL files of Digispark case
 
 This files can be used for a 3D printer.
 You need glue to close it as well.
